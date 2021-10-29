@@ -16,3 +16,7 @@ Transcription models here:
 4. Sephardi_01 (https://zenodo.org/record/5468665)
 
 Segmentation models will remain here until kraken's model repository on zenodo permits segmentation model upload.
+
+
+BiblIAlong02_se3_2_tl.mlmodel permits to segment the main text regions and lines of manuscripts and strives to ignore marginal comments, commentary etc.
+SoferMahirCleanFL06Eb_83_tl.mlmodel segments into "Main", "Margin", "Paratext" regions and distinguishes interlinear lines ("Correction")
