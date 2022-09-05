@@ -1,4 +1,4 @@
-Transcriptions of the main manuscripts of Tannaitic Rabbinic Compositions in Alto XML 4.2 format
+Transcriptions of the main manuscripts of Tannaitic Rabbinic Compositions in Alto XML 4.2 format created with eScriptorium v0.12.5b cum Kraken 3.0.13
 
 Created in the Sofer Mahir project 2018-2022.
 
